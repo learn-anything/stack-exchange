@@ -1,4 +1,4 @@
-# awesome Stack Exchange sites [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
+# Awesome Stack Exchange Communities [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
 *Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
 
 - [Academia](https://academia.stackexchange.com)
