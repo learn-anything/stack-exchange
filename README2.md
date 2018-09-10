@@ -1,5 +1,5 @@
 # Awesome Stack Exchange Communities [![Lists](https://img.shields.io/badge/More%20Lists-📔-blue.svg)](https://github.com/learn-anything/curated-lists#readme)
-*Please read the [contribution guidelines](contributing.md#contribution-guidelines) before contributing.*
+*Please read the [contribution guidelines](CONTRIBUTING.md#contribution-guidelines) before contributing.*
 
 - [Academia](https://academia.stackexchange.com)
 - [Amateur radio](https://ham.stackexchange.com)
@@ -120,7 +120,7 @@
 - [Writers](http://writers.stackexchange.com)
 
 ## Contributing
-See [contribution guidelines](contributing.md#contribution-guidelines).
+See [contribution guidelines](CONTRIBUTING.md#contribution-guidelines).
 
 ## More lists 📝
 For more lists like this, see [here](https://github.com/learn-anything/curated-lists#readme).
